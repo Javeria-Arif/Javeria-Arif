@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi there 👋, I am Javeria. I love working with new technologies related to software development.
+<hr />
 
-<!--
-**Javeria-Arif/Javeria-Arif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages:
+- Python | JavaScript
 
-Here are some ideas to get you started:
+### Front-end:
+- HTML | CSS | JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-end:
+- Django
+
+### Databases:
+- MySQL | Firebase
+
+### AI & ML:
+- Numpy | Pandas | Tensorflow | OpenCV2 | Matplotlib | scikitlearn
+- ML algorithms | neural networks
+
+
+### Tools:
+- VS Code | Colab | Jupyter Notebook | Python IDLE | Spyder IDE
+- PowerBI | MS Excel
+- Jira
+- Git
+
+### How to reach me?
+- [Linktree](https://linktr.ee/JaveriaArif)
+
+![Javeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javeria-Arif&show_icons=true&theme=radical)
+
+![Javeria's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Javeria-Arif&layout=compact&theme=radical)
